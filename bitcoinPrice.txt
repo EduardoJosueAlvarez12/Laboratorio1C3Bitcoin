@@ -1,0 +1,3 @@
+USD, &#36;, 39,712.7332, United States Dollar, 39712.7332
+GBP, &pound;, 31,824.9504, British Pound Sterling, 31824.9504
+EUR, &euro;, 37,776.6977, Euro, 37776.6977
